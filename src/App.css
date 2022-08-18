@@ -13,6 +13,16 @@
   }
 }
 
+.hooksState{
+  display: flex;
+  justify-content:space-around;
+}
+
+.inputFrom{
+  padding: 10px;
+  border-radius: 8px;
+   margin-left: 5px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
